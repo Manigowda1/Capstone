@@ -1,2 +1,2 @@
-# Capstone
-Real world projects
+# Capstone Project
+Price tracking web application.
